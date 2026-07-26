@@ -1,0 +1,402 @@
+[
+    {
+        "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "The happiness of your life depends upon the quality of your thoughts.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "Waste no more time arguing about what a good man should be. Be one.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "If it is not right, do not do it; if it is not true, do not say it.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "It is not death that a man should fear, but he should fear never beginning to live.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "Confine yourself to the present.",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "text": "No man is free who is not master of himself.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "It's not what happens to you, but how you react to it that matters.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "Wealth consists not in having great possessions, but in having few wants.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "First say to yourself what you would be; and then do what you have to do.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "Only the educated are free.",
+        "author": "Epictetus"
+    },
+    {
+        "text": "Luck is what happens when preparation meets opportunity.",
+        "author": "Seneca"
+    },
+    {
+        "text": "Difficulties strengthen the mind, as labor does the body.",
+        "author": "Seneca"
+    },
+    {
+        "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+        "author": "Seneca"
+    },
+    {
+        "text": "Every new beginning comes from some other beginning's end.",
+        "author": "Seneca"
+    },
+    {
+        "text": "While we wait for life, life passes.",
+        "author": "Seneca"
+    },
+    {
+        "text": "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
+        "author": "Seneca"
+    },
+    {
+        "text": "Nothing is more honorable than a grateful heart.",
+        "author": "Seneca"
+    },
+    {
+        "text": "Fortune favors the bold.",
+        "author": "Virgil"
+    },
+    {
+        "text": "The greatest wealth is to live content with little.",
+        "author": "Plato"
+    },
+    {
+        "text": "At the touch of love everyone becomes a poet.",
+        "author": "Plato"
+    },
+    {
+        "text": "Courage is knowing what not to fear.",
+        "author": "Plato"
+    },
+    {
+        "text": "Wise men speak because they have something to say; fools because they have to say something.",
+        "author": "Plato"
+    },
+    {
+        "text": "Necessity is the mother of invention.",
+        "author": "Plato"
+    },
+    {
+        "text": "The unexamined life is not worth living.",
+        "author": "Socrates"
+    },
+    {
+        "text": "An honest man is always a child.",
+        "author": "Socrates"
+    },
+    {
+        "text": "There is only one good, knowledge, and one evil, ignorance.",
+        "author": "Socrates"
+    },
+    {
+        "text": "To find yourself, think for yourself.",
+        "author": "Socrates"
+    },
+    {
+        "text": "I cannot teach anybody anything. I can only make them think.",
+        "author": "Socrates"
+    },
+    {
+        "text": "Let him that would move the world first move himself.",
+        "author": "Socrates"
+    },
+    {
+        "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "Knowing yourself is the beginning of all wisdom.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "Educating the mind without educating the heart is no education at all.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "The whole is greater than the sum of its parts.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "Well begun is half done.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    },
+    {
+        "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+        "author": "Confucius"
+    },
+    {
+        "text": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+    },
+    {
+        "text": "Only the wisest and stupidest of men never change.",
+        "author": "Confucius"
+    },
+    {
+        "text": "The man who moves a mountain begins by carrying away small stones.",
+        "author": "Confucius"
+    },
+    {
+        "text": "Real knowledge is to know the extent of one's ignorance.",
+        "author": "Confucius"
+    },
+    {
+        "text": "A journey of a thousand miles begins with a single step.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "Nature does not hurry, yet everything is accomplished.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "Knowing others is wisdom, knowing yourself is enlightenment.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "When I let go of what I am, I become what I might be.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "The best fighter is never angry.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "A good traveler has no fixed plans and is not intent upon arriving.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "Silence is a source of great strength.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "The mind is everything. What you think you become.",
+        "author": "Buddha"
+    },
+    {
+        "text": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha"
+    },
+    {
+        "text": "Better than a thousand hollow words is one word that brings peace.",
+        "author": "Buddha"
+    },
+    {
+        "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+        "author": "Buddha"
+    },
+    {
+        "text": "Knowledge is power.",
+        "author": "Francis Bacon"
+    },
+    {
+        "text": "Reading maketh a full man; conference a ready man; and writing an exact man.",
+        "author": "Francis Bacon"
+    },
+    {
+        "text": "A wise man will make more opportunities than he finds.",
+        "author": "Francis Bacon"
+    },
+    {
+        "text": "This above all: to thine own self be true.",
+        "author": "William Shakespeare, Hamlet"
+    },
+    {
+        "text": "We know what we are, but know not what we may be.",
+        "author": "William Shakespeare, Hamlet"
+    },
+    {
+        "text": "Nothing is either good or bad, but thinking makes it so.",
+        "author": "William Shakespeare, Hamlet"
+    },
+    {
+        "text": "Our doubts are traitors, and make us lose the good we oft might win.",
+        "author": "William Shakespeare, Measure for Measure"
+    },
+    {
+        "text": "All the world's a stage, and all the men and women merely players.",
+        "author": "William Shakespeare, As You Like It"
+    },
+    {
+        "text": "The fault, dear Brutus, is not in our stars, but in ourselves.",
+        "author": "William Shakespeare, Julius Caesar"
+    },
+    {
+        "text": "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+        "author": "William Shakespeare, Twelfth Night"
+    },
+    {
+        "text": "It is not length of life, but depth of life.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "Nothing can bring you peace but yourself.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "The only way to have a friend is to be one.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "I went to the woods because I wished to live deliberately.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "As you simplify your life, the laws of the universe will seem less complex.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "Things do not change; we change.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "It's not what you look at that matters, it's what you see.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "Kindness is a language which the deaf can hear and the blind can see.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "The two most important days in your life are the day you are born and the day you find out why.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+        "author": "Mark Twain"
+    },
+    {
+        "text": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain (attributed)"
+    },
+    {
+        "text": "Character is like a tree and reputation like its shadow.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "text": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "text": "I am a slow walker, but I never walk back.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "text": "Always bear in mind that your own resolution to succeed is more important than any other one thing.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "text": "Success is counted sweetest by those who ne'er succeed.",
+        "author": "Emily Dickinson"
+    },
+    {
+        "text": "Hope is the thing with feathers that perches in the soul.",
+        "author": "Emily Dickinson"
+    },
+    {
+        "text": "Not knowing when the dawn will come, I open every door.",
+        "author": "Emily Dickinson"
+    },
+    {
+        "text": "We turn not older with years, but newer every day.",
+        "author": "Emily Dickinson"
+    },
+    {
+        "text": "Dwell in possibility.",
+        "author": "Emily Dickinson"
+    },
+    {
+        "text": "O Captain! my Captain! our fearful trip is done.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "Re-examine all that you have been told. Dismiss that which insults your soul.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "I exist as I am, that is enough.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "The powerful play goes on, and you may contribute a verse.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "Be curious, not judgmental.",
+        "author": "Walt Whitman"
+    },
+    {
+        "text": "He who binds to himself a joy does the winged life destroy.",
+        "author": "William Blake"
+    },
+    {
+        "text": "The true method of knowledge is experiment.",
+        "author": "William Blake"
+    },
+    {
+        "text": "Great things are done when men and mountains meet.",
+        "author": "William Blake"
+    }
+]
