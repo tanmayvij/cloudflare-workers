@@ -51,7 +51,7 @@ function buildResponseLines(quote) {
 	lines.push(`${ansi.bold}${ansi.white}Hello, I'm Tanmay Vij.${ansi.reset}`);
 	lines.push("");
 
-	lines.push(c(ansi.white, "Software Engineer"));
+	lines.push(c(ansi.white, "Lead Software Engineer"));
 	lines.push("Distributed Systems • AI • Cloud • DevOps");
 
 	lines.push("");
@@ -90,7 +90,7 @@ function buildResponseLines(quote) {
 	lines.push(c(ansi.dim, "────────────────────────────────────────────────────────"));
 
 	lines.push("");
-	lines.push(`curl ${ansi.yellow}hello.tanmayvij.com/json${ansi.reset}`);
+	lines.push(`curl ${ansi.yellow}https://hello.tanmayvij.com/json${ansi.reset}`);
 
 	lines.push("");
 	lines.push(c(ansi.dim, "────────────────────────────────────────────────────────"));
