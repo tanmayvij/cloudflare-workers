@@ -6,7 +6,7 @@
  *
  */
 
-const ROOT_FILE_NAME = "Resume_Tanmay_2026_07.pdf";
+const ROOT_FILE_NAME = "Resume_Tanmay_2026_08.pdf";
 
 export default {
 	async fetch(request, env, ctx) {
